@@ -11,6 +11,7 @@ public class Lifter {
 	
 	/*
 	 * Manual Control Goals:
+	 * 
 	 * Some sort of slider/wheel control for the up and down motion of the lifter needs to input a value to move the lifter to.
 	 * There should be a direct relationship between the input device's position and the lifter's position, as opposed to some sort
 	 * of joystick input where the input is either a command to ascend or to descend.

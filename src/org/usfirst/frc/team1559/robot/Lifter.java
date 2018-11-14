@@ -7,6 +7,7 @@ public class Lifter {
 	 * The code for autonomous should initialize all motors in the correct starting positions.
 	 * Positional variables should be set for top position, bottom floor position, and a lower switch position.
 	 * Each of these positions should be the correct values to have a block in various useful positions.
+	 * Move up and down depending on if the robot has a block and if the robot is in the correct field position.
 	 */
 	
 	/*

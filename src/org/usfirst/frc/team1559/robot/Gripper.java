@@ -12,8 +12,19 @@ public class Gripper {
 	 *ALL OF THESE FUNCTIONS WILL BE TOGGLEABLE
 	 *
 	 */
-	
+	while(opModeIsActive) {
+if(gamepadRightTrigger==true) {
+	double motorposition1 = -720;
+	double motorposition2 = 720;
+	}
+else if(gamepadLeftTrigger==true) {
+	double motorPosition1 = -500;
+	double motorPosition2 = 500;
+	}
+// motor1position = motorPosition1;
+// motor2position = motorPosition2;
 
-
-
+	}
+	}
 }
+
